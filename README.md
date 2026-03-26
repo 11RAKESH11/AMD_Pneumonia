@@ -44,12 +44,10 @@ Project Structure
 ├── requirements.txt
 └── README.md
 Installation and Setup
-1. Clone the Repository
-git clone https://github.com/your-username/pneumonia-detection-amd-gpu.git
-cd pneumonia-detection-amd-gpu
-2. Install Dependencies
+
+1. Install Dependencies
 pip install -r requirements.txt
-3. Run the Notebook
+2. Run the Notebook
 jupyter notebook
 Model Training
 
